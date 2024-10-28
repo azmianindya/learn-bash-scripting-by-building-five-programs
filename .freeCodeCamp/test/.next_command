@@ -43,3 +43,4 @@ __vsc_prompt_cmd_original
 shebang
 ./questionnaire.sh
 ls --color=auto -l
+chmod +x questionnaire.sh
