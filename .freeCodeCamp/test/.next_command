@@ -131,3 +131,4 @@ help test
 [[ -x countdown.sh ]]
 heelp [[ expression ]]
 help [[ expression ]]
+[[ -x countdown.sh && 5 -le 4 ]]
