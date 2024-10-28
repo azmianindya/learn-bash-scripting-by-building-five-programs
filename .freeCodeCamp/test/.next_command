@@ -138,3 +138,4 @@ help [[ expression ]]
 help
 ./countdown.sh 10
 help
+ls --color=auto /
